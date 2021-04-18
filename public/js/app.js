@@ -1918,7 +1918,7 @@ react_dom_1["default"].render(react_1["default"].createElement(Example, null), d
 
 /***/ "./resources/js/assets/Test.tsx":
 /*!**************************************!*\
-  !*** ./resources/js/assets/Test.tsx ***!
+  !*** ./resources/js/assets/index.js ***!
   \**************************************/
 /***/ (function(__unused_webpack_module, exports, __webpack_require__) {
 
